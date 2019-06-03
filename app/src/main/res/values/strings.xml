@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">wyzerka.pl</string>
+    <string name="screen_title">Zamów ciepłą pizzę!</string>
+    <string name="menu_name">#: </string>
+    <string name="hotness_value">🌶️: </string>
+</resources>
